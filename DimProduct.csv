@@ -1,0 +1,301 @@
+Product_ID,Product_Name,Product_Category,Product_Type,Unit_Cost,Unit_Price
+P01,Mini Backpack,Accessories,Bags,434,608
+P02,Fabric Wallet,Accessories,Wallets,461,718
+P03,Baseball Cap,Accessories,Caps,392,574
+P04,Women Straight Jeans,Women,Denim,438,576
+P05,Printed Tee,Men,T-Shirts,491,698
+P06,Formal Shirt,Men,Shirts,529,703
+P07,Hoodie,Men,Winter Wear,218,403
+P08,Straight Fit Jeans,Men,Jeans,616,789
+P09,Girls Dress,Kids,Girls Wear,411,658
+P10,Crew Socks,Accessories,Socks,408,613
+P11,Graphic Tee,Men,T-Shirts,213,503
+P12,Cotton Kurti,Women,Kurtis,273,479
+P13,Girls Top,Kids,Girls Wear,238,432
+P14,Cotton Kurti,Women,Kurtis,236,478
+P15,Casual Belt,Accessories,Belts,554,715
+P16,Boys Shorts,Kids,Boys Wear,251,499
+P17,Formal Shirt,Men,Shirts,451,692
+P18,Baby Set,Kids,Infant Wear,225,326
+P19,Flip Flops,Footwear,Men Footwear,159,360
+P20,Kids Sandals,Footwear,Kids Footwear,350,580
+P21,Hoodie,Men,Winter Wear,382,523
+P22,Girls Dress,Kids,Girls Wear,457,653
+P23,Formal Trousers,Men,Trousers,226,338
+P24,Crew Socks,Accessories,Socks,695,925
+P25,Baby Set,Kids,Infant Wear,310,432
+P26,Baby Romper,Kids,Infant Wear,640,885
+P27,Leather Wallet,Accessories,Wallets,540,714
+P28,Sandals,Footwear,Women Footwear,592,710
+P29,Girls Dress,Kids,Girls Wear,552,766
+P30,Boys Shorts,Kids,Boys Wear,409,530
+P31,Floral Dress,Women,Dresses,179,427
+P32,Kurta Set,Women,Ethnic Wear,297,557
+P33,Casual Trousers,Men,Trousers,694,860
+P34,Kids Sneakers,Footwear,Kids Footwear,198,465
+P35,Girls Top,Kids,Girls Wear,554,741
+P36,Baby Set,Kids,Infant Wear,437,631
+P37,Printed Kurti,Women,Kurtis,296,405
+P38,Girls Top,Kids,Girls Wear,342,533
+P39,Casual Belt,Accessories,Belts,675,788
+P40,Boys T-shirt,Kids,Boys Wear,624,711
+P41,Crew Socks,Accessories,Socks,385,530
+P42,Formal Trousers,Men,Trousers,445,599
+P43,Casual Sneakers,Footwear,Men Footwear,449,596
+P44,Crew Socks,Accessories,Socks,172,364
+P45,Graphic Tee,Men,T-Shirts,412,662
+P46,Fabric Wallet,Accessories,Wallets,246,528
+P47,Women Straight Jeans,Women,Denim,290,420
+P48,Kids Sandals,Footwear,Kids Footwear,162,292
+P49,Sandals,Footwear,Women Footwear,499,587
+P50,Plain Cotton Tee,Men,T-Shirts,633,867
+P51,Boys Shorts,Kids,Boys Wear,323,543
+P52,Boys Shorts,Kids,Boys Wear,564,777
+P53,Girls Top,Kids,Girls Wear,183,276
+P54,Casual Dress,Women,Dresses,687,947
+P55,Fabric Wallet,Accessories,Wallets,652,811
+P56,Sandals,Footwear,Women Footwear,409,511
+P57,Churidar Legging,Women,Leggings,356,508
+P58,Casual Dress,Women,Dresses,339,483
+P59,Baseball Cap,Accessories,Caps,264,518
+P60,Baseball Cap,Accessories,Caps,434,616
+P61,Kids Sneakers,Footwear,Kids Footwear,380,485
+P62,Casual Shorts,Men,Shorts,400,660
+P63,Straight Fit Jeans,Men,Jeans,452,704
+P64,Baby Romper,Kids,Infant Wear,333,436
+P65,Kurta Set,Women,Ethnic Wear,157,320
+P66,Sweatshirt,Men,Winter Wear,302,396
+P67,Printed Flip Flops,Footwear,Women Footwear,641,933
+P68,Printed Flip Flops,Footwear,Women Footwear,209,467
+P69,Casual Belt,Accessories,Belts,676,759
+P70,Girls Dress,Kids,Girls Wear,595,703
+P71,Kids Sandals,Footwear,Kids Footwear,321,461
+P72,Boys T-shirt,Kids,Boys Wear,244,371
+P73,Casual Sneakers,Footwear,Men Footwear,698,843
+P74,Casual Belt,Accessories,Belts,352,586
+P75,Leather Wallet,Accessories,Wallets,670,785
+P76,Formal Belt,Accessories,Belts,541,680
+P77,Printed Flip Flops,Footwear,Women Footwear,341,460
+P78,Crop Top,Women,Tops,578,817
+P79,Women Skinny Jeans,Women,Denim,275,443
+P80,Flip Flops,Footwear,Men Footwear,440,576
+P81,Mini Backpack,Accessories,Bags,516,687
+P82,Ankle Legging,Women,Leggings,212,477
+P83,Formal Shirt,Men,Shirts,607,836
+P84,Sweatshirt,Men,Winter Wear,658,857
+P85,Churidar Legging,Women,Leggings,607,693
+P86,Kurta Set,Women,Ethnic Wear,168,422
+P87,Ankle Socks,Accessories,Socks,156,388
+P88,Mini Backpack,Accessories,Bags,238,364
+P89,Girls Dress,Kids,Girls Wear,457,587
+P90,Crop Top,Women,Tops,472,575
+P91,Printed Cap,Accessories,Caps,427,566
+P92,Crop Top,Women,Tops,588,817
+P93,Girls Dress,Kids,Girls Wear,199,411
+P94,Mini Backpack,Accessories,Bags,663,903
+P95,Sandals,Footwear,Women Footwear,664,923
+P96,Formal Belt,Accessories,Belts,215,295
+P97,Boys Shorts,Kids,Boys Wear,391,487
+P98,Women Straight Jeans,Women,Denim,294,477
+P99,Anarkali Kurti,Women,Kurtis,321,464
+P100,Formal Trousers,Men,Trousers,454,713
+P101,Formal Belt,Accessories,Belts,568,665
+P102,Boys T-shirt,Kids,Boys Wear,417,678
+P103,Kids Sandals,Footwear,Kids Footwear,459,675
+P104,Shoulder Bag,Accessories,Bags,644,928
+P105,Checked Shirt,Men,Shirts,599,732
+P106,Formal Shirt,Men,Shirts,522,731
+P107,Printed Cap,Accessories,Caps,309,609
+P108,Printed Flip Flops,Footwear,Women Footwear,510,742
+P109,Baby Romper,Kids,Infant Wear,648,732
+P110,Boys Shorts,Kids,Boys Wear,220,360
+P111,Anarkali Dress,Women,Ethnic Wear,411,636
+P112,Distressed Jeans,Men,Jeans,440,735
+P113,Kurta Set,Women,Ethnic Wear,539,757
+P114,Kids Sneakers,Footwear,Kids Footwear,188,326
+P115,Kids Sandals,Footwear,Kids Footwear,245,386
+P116,Kids Sandals,Footwear,Kids Footwear,671,793
+P117,Casual Shorts,Men,Shorts,254,462
+P118,Casual Shorts,Men,Shorts,543,703
+P119,Leather Wallet,Accessories,Wallets,316,496
+P120,Boys T-shirt,Kids,Boys Wear,449,560
+P121,Ankle Legging,Women,Leggings,699,993
+P122,Anarkali Kurti,Women,Kurtis,454,624
+P123,Floral Dress,Women,Dresses,493,749
+P124,Checked Shirt,Men,Shirts,177,349
+P125,Flip Flops,Footwear,Men Footwear,676,943
+P126,Leather Wallet,Accessories,Wallets,596,726
+P127,Churidar Legging,Women,Leggings,260,350
+P128,Sandals,Footwear,Women Footwear,555,664
+P129,Cotton Kurti,Women,Kurtis,493,617
+P130,Casual Sneakers,Footwear,Men Footwear,320,590
+P131,Printed Cap,Accessories,Caps,209,461
+P132,Boys Shorts,Kids,Boys Wear,243,527
+P133,Kurta Set,Women,Ethnic Wear,632,758
+P134,Casual Shorts,Men,Shorts,561,837
+P135,Anarkali Kurti,Women,Kurtis,592,748
+P136,Girls Dress,Kids,Girls Wear,213,381
+P137,Churidar Legging,Women,Leggings,673,857
+P138,Flip Flops,Footwear,Men Footwear,152,395
+P139,Flip Flops,Footwear,Men Footwear,293,472
+P140,Crew Socks,Accessories,Socks,509,743
+P141,Printed Tee,Men,T-Shirts,468,712
+P142,Formal Trousers,Men,Trousers,254,506
+P143,Fabric Wallet,Accessories,Wallets,250,364
+P144,Printed Flip Flops,Footwear,Women Footwear,467,750
+P145,Fabric Wallet,Accessories,Wallets,550,745
+P146,Flip Flops,Footwear,Men Footwear,470,593
+P147,Sandals,Footwear,Women Footwear,674,817
+P148,Boys T-shirt,Kids,Boys Wear,611,773
+P149,Baseball Cap,Accessories,Caps,699,871
+P150,Girls Dress,Kids,Girls Wear,397,595
+P151,Hoodie,Men,Winter Wear,439,533
+P152,Crew Socks,Accessories,Socks,250,494
+P153,Shoulder Bag,Accessories,Bags,379,553
+P154,Churidar Legging,Women,Leggings,361,606
+P155,Kids Sneakers,Footwear,Kids Footwear,178,301
+P156,Casual Sneakers,Footwear,Men Footwear,426,607
+P157,Slim Fit Jeans,Men,Jeans,366,459
+P158,Flip Flops,Footwear,Men Footwear,312,545
+P159,Baseball Cap,Accessories,Caps,442,553
+P160,Baby Romper,Kids,Infant Wear,491,748
+P161,Kurta Set,Women,Ethnic Wear,592,705
+P162,Sandals,Footwear,Women Footwear,584,743
+P163,Printed Kurti,Women,Kurtis,270,425
+P164,Printed Kurti,Women,Kurtis,264,555
+P165,Cotton Kurti,Women,Kurtis,387,567
+P166,Printed Flip Flops,Footwear,Women Footwear,325,556
+P167,Boys T-shirt,Kids,Boys Wear,376,656
+P168,Baseball Cap,Accessories,Caps,594,884
+P169,Flip Flops,Footwear,Men Footwear,270,503
+P170,Casual Belt,Accessories,Belts,678,764
+P171,Casual Trousers,Men,Trousers,450,615
+P172,Printed Top,Women,Tops,540,732
+P173,Girls Top,Kids,Girls Wear,644,843
+P174,Casual Belt,Accessories,Belts,173,337
+P175,Kids Sandals,Footwear,Kids Footwear,384,591
+P176,Kids Sandals,Footwear,Kids Footwear,584,821
+P177,Baseball Cap,Accessories,Caps,665,864
+P178,Casual Shorts,Men,Shorts,657,948
+P179,Girls Dress,Kids,Girls Wear,262,531
+P180,Kids Sandals,Footwear,Kids Footwear,505,662
+P181,Girls Top,Kids,Girls Wear,440,534
+P182,Churidar Legging,Women,Leggings,426,608
+P183,Casual Trousers,Men,Trousers,306,596
+P184,Floral Dress,Women,Dresses,616,701
+P185,Casual Sneakers,Footwear,Men Footwear,447,692
+P186,Girls Dress,Kids,Girls Wear,288,585
+P187,Boys T-shirt,Kids,Boys Wear,688,974
+P188,Boys T-shirt,Kids,Boys Wear,368,535
+P189,Printed Flip Flops,Footwear,Women Footwear,487,680
+P190,Kids Sneakers,Footwear,Kids Footwear,473,569
+P191,Cotton Kurti,Women,Kurtis,530,816
+P192,Kurta Set,Women,Ethnic Wear,163,333
+P193,Oversized Tee,Men,T-Shirts,153,337
+P194,Crew Socks,Accessories,Socks,687,856
+P195,Girls Top,Kids,Girls Wear,585,698
+P196,Casual Sneakers,Footwear,Men Footwear,507,590
+P197,Ankle Legging,Women,Leggings,566,704
+P198,Women Straight Jeans,Women,Denim,250,394
+P199,Girls Top,Kids,Girls Wear,499,589
+P200,Crop Top,Women,Tops,643,894
+P201,Boys T-shirt,Kids,Boys Wear,688,977
+P202,Floral Dress,Women,Dresses,414,645
+P203,Casual Belt,Accessories,Belts,468,569
+P204,Baby Set,Kids,Infant Wear,279,447
+P205,Kids Sandals,Footwear,Kids Footwear,611,879
+P206,Baseball Cap,Accessories,Caps,502,654
+P207,Baby Romper,Kids,Infant Wear,158,277
+P208,Casual Trousers,Men,Trousers,369,578
+P209,Oversized Tee,Men,T-Shirts,646,911
+P210,Baby Set,Kids,Infant Wear,436,606
+P211,Sports Shorts,Men,Shorts,344,469
+P212,Crop Top,Women,Tops,325,426
+P213,Boys Shorts,Kids,Boys Wear,605,727
+P214,Flip Flops,Footwear,Men Footwear,498,663
+P215,Chinos,Men,Trousers,608,772
+P216,Cotton Kurti,Women,Kurtis,469,681
+P217,Floral Dress,Women,Dresses,383,492
+P218,Crop Top,Women,Tops,249,376
+P219,Printed Tee,Men,T-Shirts,259,369
+P220,Girls Top,Kids,Girls Wear,159,283
+P221,Boys T-shirt,Kids,Boys Wear,423,723
+P222,Printed Kurti,Women,Kurtis,433,640
+P223,Women Skinny Jeans,Women,Denim,345,638
+P224,Casual Trousers,Men,Trousers,505,761
+P225,Kids Sandals,Footwear,Kids Footwear,651,812
+P226,Slim Fit Jeans,Men,Jeans,402,522
+P227,Casual Shorts,Men,Shorts,211,344
+P228,Girls Top,Kids,Girls Wear,572,726
+P229,Baby Romper,Kids,Infant Wear,528,797
+P230,Fabric Wallet,Accessories,Wallets,296,451
+P231,Checked Shirt,Men,Shirts,420,682
+P232,Shoulder Bag,Accessories,Bags,395,583
+P233,Sandals,Footwear,Women Footwear,280,389
+P234,Girls Dress,Kids,Girls Wear,636,766
+P235,Ankle Socks,Accessories,Socks,615,697
+P236,Distressed Jeans,Men,Jeans,239,529
+P237,Kids Sneakers,Footwear,Kids Footwear,665,807
+P238,Shoulder Bag,Accessories,Bags,662,898
+P239,Crew Socks,Accessories,Socks,519,634
+P240,Anarkali Dress,Women,Ethnic Wear,459,661
+P241,Flip Flops,Footwear,Men Footwear,441,579
+P242,Baby Set,Kids,Infant Wear,193,432
+P243,Crew Socks,Accessories,Socks,581,850
+P244,Leather Wallet,Accessories,Wallets,190,448
+P245,Printed Flip Flops,Footwear,Women Footwear,366,527
+P246,Ankle Legging,Women,Leggings,584,814
+P247,Boys T-shirt,Kids,Boys Wear,215,352
+P248,Girls Dress,Kids,Girls Wear,207,374
+P249,Casual Shirt,Men,Shirts,204,313
+P250,Women Straight Jeans,Women,Denim,242,476
+P251,Kids Sneakers,Footwear,Kids Footwear,361,458
+P252,Baby Set,Kids,Infant Wear,564,694
+P253,Baseball Cap,Accessories,Caps,222,377
+P254,Boys Shorts,Kids,Boys Wear,459,698
+P255,Formal Belt,Accessories,Belts,210,361
+P256,Kids Sandals,Footwear,Kids Footwear,626,786
+P257,Girls Top,Kids,Girls Wear,383,476
+P258,Chinos,Men,Trousers,629,923
+P259,Ankle Socks,Accessories,Socks,168,423
+P260,Baby Romper,Kids,Infant Wear,484,761
+P261,Baby Set,Kids,Infant Wear,668,923
+P262,Girls Dress,Kids,Girls Wear,497,679
+P263,Crop Top,Women,Tops,178,457
+P264,Kids Sneakers,Footwear,Kids Footwear,409,510
+P265,Women Skinny Jeans,Women,Denim,461,586
+P266,Girls Dress,Kids,Girls Wear,227,439
+P267,Baby Set,Kids,Infant Wear,650,917
+P268,Flip Flops,Footwear,Men Footwear,254,402
+P269,Girls Top,Kids,Girls Wear,262,405
+P270,Casual Top,Women,Tops,419,691
+P271,Formal Belt,Accessories,Belts,603,690
+P272,Women Skinny Jeans,Women,Denim,569,697
+P273,Baby Romper,Kids,Infant Wear,618,917
+P274,Baby Set,Kids,Infant Wear,360,445
+P275,Casual Sneakers,Footwear,Men Footwear,399,587
+P276,Crew Socks,Accessories,Socks,373,605
+P277,Baby Set,Kids,Infant Wear,303,457
+P278,Anarkali Dress,Women,Ethnic Wear,363,585
+P279,Girls Dress,Kids,Girls Wear,272,570
+P280,Fabric Wallet,Accessories,Wallets,161,355
+P281,Mini Backpack,Accessories,Bags,174,310
+P282,Kids Sneakers,Footwear,Kids Footwear,340,488
+P283,Printed Cap,Accessories,Caps,399,686
+P284,Checked Shirt,Men,Shirts,359,651
+P285,Churidar Legging,Women,Leggings,373,524
+P286,Ankle Legging,Women,Leggings,308,568
+P287,Baby Romper,Kids,Infant Wear,364,465
+P288,Flip Flops,Footwear,Men Footwear,514,622
+P289,Printed Cap,Accessories,Caps,483,598
+P290,Women Skinny Jeans,Women,Denim,351,590
+P291,Chinos,Men,Trousers,306,605
+P292,Baby Romper,Kids,Infant Wear,577,700
+P293,Chinos,Men,Trousers,328,478
+P294,Sports Shorts,Men,Shorts,200,432
+P295,Casual Trousers,Men,Trousers,658,925
+P296,Sports Shorts,Men,Shorts,276,422
+P297,Hoodie,Men,Winter Wear,191,277
+P298,Anarkali Dress,Women,Ethnic Wear,581,800
+P299,Shoulder Bag,Accessories,Bags,360,603
+P300,Kurta Set,Women,Ethnic Wear,629,730
