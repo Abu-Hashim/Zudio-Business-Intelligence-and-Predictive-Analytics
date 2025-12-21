@@ -26,7 +26,7 @@ The project transforms a raw retail dataset into a structured Fact–Dimension m
 - Business Areas Covered: Sales, Customers, Products, Stores
 
 # Data Model:
-- A Star Schema was implemented consisting of:
+ A Star Schema was implemented consisting of:
 - FactSales – Transaction-level sales data
 - DimCustomer – Customer demographic details
 - DimProduct – Product and pricing information
@@ -83,5 +83,5 @@ The project transforms a raw retail dataset into a structured Fact–Dimension m
 📁 Report
    ├── Final_Report.pdf
 
-👤 Author
+👤 Author -
 Khan Abu Hashim
