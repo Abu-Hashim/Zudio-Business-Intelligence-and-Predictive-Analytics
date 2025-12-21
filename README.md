@@ -27,11 +27,11 @@ The project transforms a raw retail dataset into a structured Fact–Dimension m
 
 # Data Model:
 - A Star Schema was implemented consisting of:
-FactSales – Transaction-level sales data
-DimCustomer – Customer demographic details
-DimProduct – Product and pricing information
-DimStore – Store location and operational data
-DimDate – Date table for time-based analysis
+- FactSales – Transaction-level sales data
+- DimCustomer – Customer demographic details
+- DimProduct – Product and pricing information
+- DimStore – Store location and operational data
+- DimDate – Date table for time-based analysis
 
 # Dashboards Developed:
 - Retail Sales Performance Overview
@@ -72,10 +72,10 @@ DimDate – Date table for time-based analysis
 
 # Repository Structure
 📁 Data
-   ├── FactSales.csv
-   ├── DimCustomer.csv
-   ├── DimProduct.csv
-   ├── DimStore.csv
+   - ├── FactSales.csv
+   - ├── DimCustomer.csv
+   - ├── DimProduct.csv
+   - ├── DimStore.csv
 
 📁 PowerBI
    ├── Zudio_Retail_Sales_Dashboard.pbix
