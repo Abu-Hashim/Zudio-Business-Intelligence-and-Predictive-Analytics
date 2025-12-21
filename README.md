@@ -72,6 +72,7 @@ The project transforms a raw retail dataset into a structured Fact–Dimension m
 
 # Repository Structure
 📁 Raw Data
+
 📁 Data
    - FactSales.csv
    - DimCustomer.csv
