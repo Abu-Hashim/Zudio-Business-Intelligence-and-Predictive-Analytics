@@ -71,17 +71,21 @@ The project transforms a raw retail dataset into a structured Fact–Dimension m
 - Analyze impact of discounts and promotions
 
 # Repository Structure
+📁 Raw Data
 📁 Data
-   - ├── FactSales.csv
-   - ├── DimCustomer.csv
-   - ├── DimProduct.csv
-   - ├── DimStore.csv
+   - FactSales.csv
+   - DimCustomer.csv
+   - DimProduct.csv
+   - DimStore.csv
 
 📁 PowerBI
-   ├── Zudio_Retail_Sales_Dashboard.pbix
+   - Zudio_Retail_Sales_Dashboard.pbix
+   - Dashboard Pdf
+   
+📁 SQL Server Queries 
 
 📁 Report
-   ├── Final_Report.pdf
+   Final_Report.pdf
 
 👤 Author -
 Khan Abu Hashim
